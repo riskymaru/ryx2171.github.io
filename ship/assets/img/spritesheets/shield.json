@@ -1,0 +1,127 @@
+﻿{"frames": {
+
+"shield0000":
+{
+	"frame": {"x":0,"y":0,"w":120,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":118},
+	"sourceSize": {"w":120,"h":118}
+},
+"shield0001":
+{
+	"frame": {"x":0,"y":0,"w":120,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":118},
+	"sourceSize": {"w":120,"h":118}
+},
+"shield0002":
+{
+	"frame": {"x":0,"y":0,"w":120,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":118},
+	"sourceSize": {"w":120,"h":118}
+},
+"shield0003":
+{
+	"frame": {"x":0,"y":0,"w":120,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":118},
+	"sourceSize": {"w":120,"h":118}
+},
+"shield0004":
+{
+	"frame": {"x":0,"y":118,"w":120,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":118},
+	"sourceSize": {"w":120,"h":118}
+},
+"shield0005":
+{
+	"frame": {"x":0,"y":118,"w":120,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":118},
+	"sourceSize": {"w":120,"h":118}
+},
+"shield0006":
+{
+	"frame": {"x":120,"y":0,"w":120,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":118},
+	"sourceSize": {"w":120,"h":118}
+},
+"shield0007":
+{
+	"frame": {"x":120,"y":0,"w":120,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":118},
+	"sourceSize": {"w":120,"h":118}
+},
+"shield0008":
+{
+	"frame": {"x":0,"y":236,"w":120,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":118},
+	"sourceSize": {"w":120,"h":118}
+},
+"shield0009":
+{
+	"frame": {"x":0,"y":236,"w":120,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":118},
+	"sourceSize": {"w":120,"h":118}
+},
+"shield0010":
+{
+	"frame": {"x":120,"y":118,"w":120,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":118},
+	"sourceSize": {"w":120,"h":118}
+},
+"shield0011":
+{
+	"frame": {"x":120,"y":118,"w":120,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":118},
+	"sourceSize": {"w":120,"h":118}
+}},
+
+"animations":{
+		"shield":[
+					"shield0000",
+					"shield0001",
+					"shield0002",
+					"shield0003",
+					"shield0004",
+					"shield0005",
+					"shield0006",
+					"shield0007",
+					"shield0008",
+					"shield0009",
+					"shield0010",
+					"shield0011"
+			]
+},
+
+
+
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.0.2.22168",
+	"image": "shield.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1"
+}
+}
