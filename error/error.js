@@ -5,6 +5,8 @@ let mins = mydate.getMinutes() ;
 
 let currenttemp = 0;
 
+console.log("plugin-added")
+
 function checkTime(){
 
 	mydate = new Date();
