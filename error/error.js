@@ -5,7 +5,7 @@ let mins = mydate.getMinutes() ;
 
 let currenttemp = 0;
 
-console.log("plugin-added")
+console.log("Plugin: time-check")
 
 function checkTime(){
 
@@ -52,6 +52,11 @@ var refreshIntervalId = setInterval(checkTime, time);
 
  
 document.getElementById("dismiss-popup-btn").addEventListener("click",function(){
+    clearInterval(refreshIntervalId);
+    location.reload();
+});
+
+document.getElementById("loader-btn").addEventListener("click",function(){
     clearInterval(refreshIntervalId);
     location.reload();
 });
